@@ -1,5 +1,5 @@
 # Scratch Code
-**Creator:** `rapz`  
+**Creator:** `Rey Medallo`  
 
 Clone features: 
 ```
